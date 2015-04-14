@@ -20,12 +20,6 @@ Additionally, you need to comment out or remove the home partition entry in your
 
 Then, put the script *homeGuardMount.sh* in your system's autostart, i.e. */etc/rc.local* or using systemd, depending on your system configuration.
 
-
-
-----------------------------
-
-Scripts and documentation written by Pascal Wichmann, copyright (c) 2015
-
 License
 -------
 
@@ -42,3 +36,8 @@ Copyright 2015 Pascal Wichmann
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   
+----------------------------
+
+Scripts and documentation written by Pascal Wichmann, copyright (c) 2015

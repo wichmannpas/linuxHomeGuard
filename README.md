@@ -3,7 +3,7 @@ Linux Home Partition Guard
 
 This scripts mounts the home partition read-only and gives write access to an aufs-mounted tmpfs lying over it. The script *homeGuardWriteableMount.sh* disables the guard and allows the user to make permanent changes to the home partition.
 
-It was tested on Ubuntu 12.04 and 14.0. It should be possible to use it on other distributions with slight modifications of the source.
+It was tested on Ubuntu 12.04 and 14.04. It should be possible to use it on other distributions with slight modifications of the source.
 
 Installation
 ------------
